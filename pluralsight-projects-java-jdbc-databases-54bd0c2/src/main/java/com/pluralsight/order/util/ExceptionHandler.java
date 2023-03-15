@@ -6,6 +6,7 @@ import java.sql.SQLException;
  * Utility class to handle exceptions
  */
 public class ExceptionHandler {
+    catch();
 
     /**
      * Method to extract and print information from a SQLException

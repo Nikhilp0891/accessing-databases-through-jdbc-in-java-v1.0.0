@@ -8,6 +8,6 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/surefire/surefire-logger-api/2.22.2/surefire-logger-api-2.22.2-sources.jar!/" />
-    </SOURCES>
+    </SOURCES>error
   </library>
 </component>
